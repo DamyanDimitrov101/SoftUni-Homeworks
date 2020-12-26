@@ -1,0 +1,10 @@
+D:\Repos\3. Rabbits_Skeleton\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+D:\Repos\3. Rabbits_Skeleton\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+D:\Repos\3. Rabbits_Skeleton\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+D:\Repos\3. Rabbits_Skeleton\bin\Debug\netcoreapp2.1\Rabbits.dll
+D:\Repos\3. Rabbits_Skeleton\bin\Debug\netcoreapp2.1\Rabbits.pdb
+D:\Repos\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.csprojAssemblyReference.cache
+D:\Repos\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfoInputs.cache
+D:\Repos\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfo.cs
+D:\Repos\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.dll
+D:\Repos\3. Rabbits_Skeleton\obj\Debug\netcoreapp2.1\Rabbits.pdb
