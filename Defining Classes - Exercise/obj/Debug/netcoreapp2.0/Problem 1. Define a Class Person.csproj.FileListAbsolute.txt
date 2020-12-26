@@ -1,0 +1,11 @@
+D:\Repos\Defining Classes - Exercise\bin\Debug\netcoreapp2.0\Problem 1. Define a Class Person.deps.json
+D:\Repos\Defining Classes - Exercise\bin\Debug\netcoreapp2.0\Problem 1. Define a Class Person.runtimeconfig.json
+D:\Repos\Defining Classes - Exercise\bin\Debug\netcoreapp2.0\Problem 1. Define a Class Person.runtimeconfig.dev.json
+D:\Repos\Defining Classes - Exercise\bin\Debug\netcoreapp2.0\Problem 1. Define a Class Person.dll
+D:\Repos\Defining Classes - Exercise\bin\Debug\netcoreapp2.0\Problem 1. Define a Class Person.pdb
+D:\Repos\Defining Classes - Exercise\obj\Debug\netcoreapp2.0\Problem 1. Define a Class Person.csprojAssemblyReference.cache
+D:\Repos\Defining Classes - Exercise\obj\Debug\netcoreapp2.0\Problem 1. Define a Class Person.csproj.CoreCompileInputs.cache
+D:\Repos\Defining Classes - Exercise\obj\Debug\netcoreapp2.0\Problem 1. Define a Class Person.AssemblyInfoInputs.cache
+D:\Repos\Defining Classes - Exercise\obj\Debug\netcoreapp2.0\Problem 1. Define a Class Person.AssemblyInfo.cs
+D:\Repos\Defining Classes - Exercise\obj\Debug\netcoreapp2.0\Problem 1. Define a Class Person.dll
+D:\Repos\Defining Classes - Exercise\obj\Debug\netcoreapp2.0\Problem 1. Define a Class Person.pdb

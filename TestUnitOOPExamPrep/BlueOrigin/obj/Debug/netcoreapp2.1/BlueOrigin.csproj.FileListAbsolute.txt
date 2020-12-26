@@ -1,0 +1,10 @@
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.deps.json
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.json
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.runtimeconfig.dev.json
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.csprojAssemblyReference.cache
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfoInputs.cache
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.AssemblyInfo.cs
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin\obj\Debug\netcoreapp2.1\BlueOrigin.pdb

@@ -1,0 +1,10 @@
+D:\Repos\PersonClass\bin\Debug\netcoreapp2.1\Person.deps.json
+D:\Repos\PersonClass\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
+D:\Repos\PersonClass\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
+D:\Repos\PersonClass\bin\Debug\netcoreapp2.1\Person.dll
+D:\Repos\PersonClass\bin\Debug\netcoreapp2.1\Person.pdb
+D:\Repos\PersonClass\obj\Debug\netcoreapp2.1\Person.csprojAssemblyReference.cache
+D:\Repos\PersonClass\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
+D:\Repos\PersonClass\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
+D:\Repos\PersonClass\obj\Debug\netcoreapp2.1\Person.dll
+D:\Repos\PersonClass\obj\Debug\netcoreapp2.1\Person.pdb

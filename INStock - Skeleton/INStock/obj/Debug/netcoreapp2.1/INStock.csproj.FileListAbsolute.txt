@@ -1,0 +1,10 @@
+D:\Repos\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.deps.json
+D:\Repos\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.runtimeconfig.json
+D:\Repos\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.runtimeconfig.dev.json
+D:\Repos\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.dll
+D:\Repos\INStock - Skeleton\INStock\bin\Debug\netcoreapp2.1\INStock.pdb
+D:\Repos\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.csprojAssemblyReference.cache
+D:\Repos\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.AssemblyInfoInputs.cache
+D:\Repos\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.AssemblyInfo.cs
+D:\Repos\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.dll
+D:\Repos\INStock - Skeleton\INStock\obj\Debug\netcoreapp2.1\INStock.pdb

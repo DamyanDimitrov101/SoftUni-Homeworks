@@ -1,0 +1,11 @@
+D:\Repos\Problem 10.   Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.deps.json
+D:\Repos\Problem 10.   Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.runtimeconfig.json
+D:\Repos\Problem 10.   Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.runtimeconfig.dev.json
+D:\Repos\Problem 10.   Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.dll
+D:\Repos\Problem 10.   Predicate Party!\bin\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.pdb
+D:\Repos\Problem 10.   Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.csprojAssemblyReference.cache
+D:\Repos\Problem 10.   Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.csproj.CoreCompileInputs.cache
+D:\Repos\Problem 10.   Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.AssemblyInfoInputs.cache
+D:\Repos\Problem 10.   Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.AssemblyInfo.cs
+D:\Repos\Problem 10.   Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.dll
+D:\Repos\Problem 10.   Predicate Party!\obj\Debug\netcoreapp2.1\Problem 10.   Predicate Party!.pdb

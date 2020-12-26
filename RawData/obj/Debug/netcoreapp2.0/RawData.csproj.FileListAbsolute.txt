@@ -1,0 +1,11 @@
+D:\Repos\RawData\bin\Debug\netcoreapp2.0\RawData.deps.json
+D:\Repos\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.json
+D:\Repos\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.dev.json
+D:\Repos\RawData\bin\Debug\netcoreapp2.0\RawData.dll
+D:\Repos\RawData\bin\Debug\netcoreapp2.0\RawData.pdb
+D:\Repos\RawData\obj\Debug\netcoreapp2.0\RawData.csprojAssemblyReference.cache
+D:\Repos\RawData\obj\Debug\netcoreapp2.0\RawData.csproj.CoreCompileInputs.cache
+D:\Repos\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfoInputs.cache
+D:\Repos\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfo.cs
+D:\Repos\RawData\obj\Debug\netcoreapp2.0\RawData.dll
+D:\Repos\RawData\obj\Debug\netcoreapp2.0\RawData.pdb

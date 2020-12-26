@@ -1,0 +1,67 @@
+.container{
+    display: none;
+}
+
+#errorLog{
+    display: none;
+    border: solid red;
+    border-radius: 13px;
+    background-color: whitesmoke;
+}
+
+#errorLog p{
+    text-align: center;
+    font-size: large;
+    margin-top: 15px;
+    color: red;
+    font-weight: 600;
+}
+
+
+nav ul > li > a{
+    color: snow;    
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav ul > li{
+    display: inline-block;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+nav ul > li > a:hover{
+    cursor: pointer;
+    color: snow;
+    font-weight: 800;
+    text-decoration: none;
+}
+
+nav ul{
+    background-color: slategrey;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+div#root{
+    display: table;
+}
+
+div.card{
+    display: inline-block;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+#profileRoot{
+    display: table;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+
+.card-body{
+    background-color: slategrey;
+}

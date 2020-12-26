@@ -1,0 +1,8 @@
+D:\Repos\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.csprojAssemblyReference.cache
+D:\Repos\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.AssemblyInfoInputs.cache
+D:\Repos\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.AssemblyInfo.cs
+D:\Repos\LoggerLibrary\bin\Debug\netstandard2.0\LoggerLibrary.deps.json
+D:\Repos\LoggerLibrary\bin\Debug\netstandard2.0\LoggerLibrary.dll
+D:\Repos\LoggerLibrary\bin\Debug\netstandard2.0\LoggerLibrary.pdb
+D:\Repos\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.dll
+D:\Repos\LoggerLibrary\obj\Debug\netstandard2.0\LoggerLibrary.pdb

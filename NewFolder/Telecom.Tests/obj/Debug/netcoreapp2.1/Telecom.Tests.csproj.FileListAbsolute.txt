@@ -1,0 +1,16 @@
+D:\Repos\NewFolder\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csprojAssemblyReference.cache
+D:\Repos\NewFolder\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfoInputs.cache
+D:\Repos\NewFolder\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfo.cs
+D:\Repos\NewFolder\Telecom.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Repos\NewFolder\Telecom.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Repos\NewFolder\Telecom.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Repos\NewFolder\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.deps.json
+D:\Repos\NewFolder\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.json
+D:\Repos\NewFolder\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.dev.json
+D:\Repos\NewFolder\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.dll
+D:\Repos\NewFolder\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.pdb
+D:\Repos\NewFolder\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.dll
+D:\Repos\NewFolder\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.pdb
+D:\Repos\NewFolder\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csproj.CopyComplete
+D:\Repos\NewFolder\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.dll
+D:\Repos\NewFolder\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.pdb

@@ -1,0 +1,16 @@
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.deps.json
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.runtimeconfig.json
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.runtimeconfig.dev.json
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.dll
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.Tests.pdb
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.dll
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\bin\Debug\netcoreapp2.1\BlueOrigin.pdb
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.csprojAssemblyReference.cache
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.AssemblyInfoInputs.cache
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.AssemblyInfo.cs
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.csproj.CopyComplete
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.dll
+D:\Repos\TestUnitOOPExamPrep\BlueOrigin.Tests\obj\Debug\netcoreapp2.1\BlueOrigin.Tests.pdb

@@ -1,0 +1,11 @@
+D:\Repos\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.deps.json
+D:\Repos\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.runtimeconfig.json
+D:\Repos\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.runtimeconfig.dev.json
+D:\Repos\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.dll
+D:\Repos\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.pdb
+D:\Repos\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.csprojAssemblyReference.cache
+D:\Repos\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\Repos\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfoInputs.cache
+D:\Repos\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfo.cs
+D:\Repos\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.dll
+D:\Repos\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.pdb

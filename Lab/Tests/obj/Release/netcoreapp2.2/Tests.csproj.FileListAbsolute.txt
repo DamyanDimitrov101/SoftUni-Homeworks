@@ -1,0 +1,3 @@
+D:\Repos\Lab\Tests\obj\Release\netcoreapp2.2\Tests.csprojAssemblyReference.cache
+D:\Repos\Lab\Tests\obj\Release\netcoreapp2.2\Tests.AssemblyInfoInputs.cache
+D:\Repos\Lab\Tests\obj\Release\netcoreapp2.2\Tests.AssemblyInfo.cs

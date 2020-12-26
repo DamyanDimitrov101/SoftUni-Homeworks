@@ -1,0 +1,10 @@
+D:\Repos\Problem 8. Custom Comparator\bin\Debug\netcoreapp2.1\Problem 8. Custom Comparator.deps.json
+D:\Repos\Problem 8. Custom Comparator\bin\Debug\netcoreapp2.1\Problem 8. Custom Comparator.runtimeconfig.json
+D:\Repos\Problem 8. Custom Comparator\bin\Debug\netcoreapp2.1\Problem 8. Custom Comparator.runtimeconfig.dev.json
+D:\Repos\Problem 8. Custom Comparator\bin\Debug\netcoreapp2.1\Problem 8. Custom Comparator.dll
+D:\Repos\Problem 8. Custom Comparator\bin\Debug\netcoreapp2.1\Problem 8. Custom Comparator.pdb
+D:\Repos\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.1\Problem 8. Custom Comparator.csproj.CoreCompileInputs.cache
+D:\Repos\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.1\Problem 8. Custom Comparator.AssemblyInfoInputs.cache
+D:\Repos\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.1\Problem 8. Custom Comparator.AssemblyInfo.cs
+D:\Repos\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.1\Problem 8. Custom Comparator.dll
+D:\Repos\Problem 8. Custom Comparator\obj\Debug\netcoreapp2.1\Problem 8. Custom Comparator.pdb

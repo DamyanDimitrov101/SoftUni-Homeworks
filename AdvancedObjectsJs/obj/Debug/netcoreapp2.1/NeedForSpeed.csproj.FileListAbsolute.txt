@@ -1,0 +1,10 @@
+D:\Repos\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.deps.json
+D:\Repos\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.json
+D:\Repos\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.runtimeconfig.dev.json
+D:\Repos\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.dll
+D:\Repos\NeedForSpeed\bin\Debug\netcoreapp2.1\NeedForSpeed.pdb
+D:\Repos\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.csprojAssemblyReference.cache
+D:\Repos\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfoInputs.cache
+D:\Repos\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.AssemblyInfo.cs
+D:\Repos\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.dll
+D:\Repos\NeedForSpeed\obj\Debug\netcoreapp2.1\NeedForSpeed.pdb

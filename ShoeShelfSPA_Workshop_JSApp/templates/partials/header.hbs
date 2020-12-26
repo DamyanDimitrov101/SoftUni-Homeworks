@@ -1,0 +1,25 @@
+<header>
+    <nav>
+        <ul>
+            {{#if isLogged}}
+            <li>
+                <a href="/create-offer">Create new offer</a>
+            </li>
+            {{else}}
+            <li class="site-logo">Shoe</li>
+            {{/if}}
+            <li>
+                <a href="/home">
+                    <img src="./public/sneakers.png" alt="Image not found" onerror="this.onerror=null;this.src='../public/sneakers.png';" >
+                </a>
+            </li>
+            {{#if isLogged}}
+            <li>Welcome, {{email}} |
+                <a href="/logout">Logout</a>
+            </li>
+            {{else}}
+            <li class="site-logo">Shelf</li>
+            {{/if}}
+        </ul>
+    </nav>
+</header>

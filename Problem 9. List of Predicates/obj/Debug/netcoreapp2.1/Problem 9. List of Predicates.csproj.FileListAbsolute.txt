@@ -1,0 +1,11 @@
+D:\Repos\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.deps.json
+D:\Repos\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.runtimeconfig.json
+D:\Repos\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.runtimeconfig.dev.json
+D:\Repos\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.dll
+D:\Repos\Problem 9. List of Predicates\bin\Debug\netcoreapp2.1\Problem 9. List of Predicates.pdb
+D:\Repos\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.csprojAssemblyReference.cache
+D:\Repos\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.csproj.CoreCompileInputs.cache
+D:\Repos\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.AssemblyInfoInputs.cache
+D:\Repos\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.AssemblyInfo.cs
+D:\Repos\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.dll
+D:\Repos\Problem 9. List of Predicates\obj\Debug\netcoreapp2.1\Problem 9. List of Predicates.pdb

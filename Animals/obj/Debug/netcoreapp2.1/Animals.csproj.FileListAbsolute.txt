@@ -1,0 +1,10 @@
+D:\Repos\Animals\bin\Debug\netcoreapp2.1\Animals.deps.json
+D:\Repos\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.json
+D:\Repos\Animals\bin\Debug\netcoreapp2.1\Animals.runtimeconfig.dev.json
+D:\Repos\Animals\bin\Debug\netcoreapp2.1\Animals.dll
+D:\Repos\Animals\bin\Debug\netcoreapp2.1\Animals.pdb
+D:\Repos\Animals\obj\Debug\netcoreapp2.1\Animals.csprojAssemblyReference.cache
+D:\Repos\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfoInputs.cache
+D:\Repos\Animals\obj\Debug\netcoreapp2.1\Animals.AssemblyInfo.cs
+D:\Repos\Animals\obj\Debug\netcoreapp2.1\Animals.dll
+D:\Repos\Animals\obj\Debug\netcoreapp2.1\Animals.pdb

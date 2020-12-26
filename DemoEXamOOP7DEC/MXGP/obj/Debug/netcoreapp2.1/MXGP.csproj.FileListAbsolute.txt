@@ -1,0 +1,10 @@
+D:\Repos\DemoEXamOOP7DEC\MXGP\bin\Debug\netcoreapp2.1\MXGP.deps.json
+D:\Repos\DemoEXamOOP7DEC\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.json
+D:\Repos\DemoEXamOOP7DEC\MXGP\bin\Debug\netcoreapp2.1\MXGP.runtimeconfig.dev.json
+D:\Repos\DemoEXamOOP7DEC\MXGP\bin\Debug\netcoreapp2.1\MXGP.dll
+D:\Repos\DemoEXamOOP7DEC\MXGP\bin\Debug\netcoreapp2.1\MXGP.pdb
+D:\Repos\DemoEXamOOP7DEC\MXGP\obj\Debug\netcoreapp2.1\MXGP.csprojAssemblyReference.cache
+D:\Repos\DemoEXamOOP7DEC\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfoInputs.cache
+D:\Repos\DemoEXamOOP7DEC\MXGP\obj\Debug\netcoreapp2.1\MXGP.AssemblyInfo.cs
+D:\Repos\DemoEXamOOP7DEC\MXGP\obj\Debug\netcoreapp2.1\MXGP.dll
+D:\Repos\DemoEXamOOP7DEC\MXGP\obj\Debug\netcoreapp2.1\MXGP.pdb

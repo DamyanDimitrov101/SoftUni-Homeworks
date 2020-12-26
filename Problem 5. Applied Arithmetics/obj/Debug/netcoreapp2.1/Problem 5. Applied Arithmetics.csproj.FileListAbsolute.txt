@@ -1,0 +1,10 @@
+D:\Repos\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.deps.json
+D:\Repos\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.runtimeconfig.json
+D:\Repos\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.runtimeconfig.dev.json
+D:\Repos\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.dll
+D:\Repos\Problem 5. Applied Arithmetics\bin\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.pdb
+D:\Repos\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\Repos\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\Repos\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.AssemblyInfo.cs
+D:\Repos\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.dll
+D:\Repos\Problem 5. Applied Arithmetics\obj\Debug\netcoreapp2.1\Problem 5. Applied Arithmetics.pdb

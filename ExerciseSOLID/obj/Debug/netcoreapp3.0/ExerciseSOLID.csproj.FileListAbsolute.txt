@@ -1,0 +1,11 @@
+D:\Repos\ExerciseSOLID\bin\Debug\netcoreapp3.0\ExerciseSOLID.exe
+D:\Repos\ExerciseSOLID\bin\Debug\netcoreapp3.0\ExerciseSOLID.deps.json
+D:\Repos\ExerciseSOLID\bin\Debug\netcoreapp3.0\ExerciseSOLID.runtimeconfig.json
+D:\Repos\ExerciseSOLID\bin\Debug\netcoreapp3.0\ExerciseSOLID.runtimeconfig.dev.json
+D:\Repos\ExerciseSOLID\bin\Debug\netcoreapp3.0\ExerciseSOLID.dll
+D:\Repos\ExerciseSOLID\bin\Debug\netcoreapp3.0\ExerciseSOLID.pdb
+D:\Repos\ExerciseSOLID\obj\Debug\netcoreapp3.0\ExerciseSOLID.csprojAssemblyReference.cache
+D:\Repos\ExerciseSOLID\obj\Debug\netcoreapp3.0\ExerciseSOLID.AssemblyInfoInputs.cache
+D:\Repos\ExerciseSOLID\obj\Debug\netcoreapp3.0\ExerciseSOLID.AssemblyInfo.cs
+D:\Repos\ExerciseSOLID\obj\Debug\netcoreapp3.0\ExerciseSOLID.dll
+D:\Repos\ExerciseSOLID\obj\Debug\netcoreapp3.0\ExerciseSOLID.pdb

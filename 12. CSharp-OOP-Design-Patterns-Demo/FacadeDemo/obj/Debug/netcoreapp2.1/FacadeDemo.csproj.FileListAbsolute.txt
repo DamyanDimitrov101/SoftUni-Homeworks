@@ -1,0 +1,10 @@
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\FacadeDemo\bin\Debug\netcoreapp2.1\FacadeDemo.deps.json
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\FacadeDemo\bin\Debug\netcoreapp2.1\FacadeDemo.runtimeconfig.json
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\FacadeDemo\bin\Debug\netcoreapp2.1\FacadeDemo.runtimeconfig.dev.json
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\FacadeDemo\bin\Debug\netcoreapp2.1\FacadeDemo.dll
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\FacadeDemo\bin\Debug\netcoreapp2.1\FacadeDemo.pdb
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\FacadeDemo\obj\Debug\netcoreapp2.1\FacadeDemo.csprojAssemblyReference.cache
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\FacadeDemo\obj\Debug\netcoreapp2.1\FacadeDemo.AssemblyInfoInputs.cache
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\FacadeDemo\obj\Debug\netcoreapp2.1\FacadeDemo.AssemblyInfo.cs
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\FacadeDemo\obj\Debug\netcoreapp2.1\FacadeDemo.dll
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\FacadeDemo\obj\Debug\netcoreapp2.1\FacadeDemo.pdb

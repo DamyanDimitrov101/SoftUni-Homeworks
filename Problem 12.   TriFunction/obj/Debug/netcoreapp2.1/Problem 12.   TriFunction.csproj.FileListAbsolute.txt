@@ -1,0 +1,11 @@
+D:\Repos\Problem 12.   TriFunction\bin\Debug\netcoreapp2.1\Problem 12.   TriFunction.deps.json
+D:\Repos\Problem 12.   TriFunction\bin\Debug\netcoreapp2.1\Problem 12.   TriFunction.runtimeconfig.json
+D:\Repos\Problem 12.   TriFunction\bin\Debug\netcoreapp2.1\Problem 12.   TriFunction.runtimeconfig.dev.json
+D:\Repos\Problem 12.   TriFunction\bin\Debug\netcoreapp2.1\Problem 12.   TriFunction.dll
+D:\Repos\Problem 12.   TriFunction\bin\Debug\netcoreapp2.1\Problem 12.   TriFunction.pdb
+D:\Repos\Problem 12.   TriFunction\obj\Debug\netcoreapp2.1\Problem 12.   TriFunction.csproj.CoreCompileInputs.cache
+D:\Repos\Problem 12.   TriFunction\obj\Debug\netcoreapp2.1\Problem 12.   TriFunction.AssemblyInfoInputs.cache
+D:\Repos\Problem 12.   TriFunction\obj\Debug\netcoreapp2.1\Problem 12.   TriFunction.AssemblyInfo.cs
+D:\Repos\Problem 12.   TriFunction\obj\Debug\netcoreapp2.1\Problem 12.   TriFunction.dll
+D:\Repos\Problem 12.   TriFunction\obj\Debug\netcoreapp2.1\Problem 12.   TriFunction.pdb
+D:\Repos\Problem 12.   TriFunction\obj\Debug\netcoreapp2.1\Problem 12.   TriFunction.csprojAssemblyReference.cache

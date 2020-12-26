@@ -1,0 +1,16 @@
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\DatabaseExtended.Tests.deps.json
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\DatabaseExtended.Tests.runtimeconfig.json
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\DatabaseExtended.Tests.runtimeconfig.dev.json
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\DatabaseExtended.Tests.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\DatabaseExtended.Tests.pdb
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\obj\Debug\netcoreapp2.1\DatabaseExtended.Tests.AssemblyInfoInputs.cache
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\obj\Debug\netcoreapp2.1\DatabaseExtended.Tests.AssemblyInfo.cs
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\obj\Debug\netcoreapp2.1\DatabaseExtended.Tests.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\obj\Debug\netcoreapp2.1\DatabaseExtended.Tests.pdb
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\obj\Debug\netcoreapp2.1\DatabaseExtended.Tests.csprojAssemblyReference.cache
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended.Tests\obj\Debug\netcoreapp2.1\DatabaseExtended.Tests.csproj.CopyComplete

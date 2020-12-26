@@ -1,0 +1,11 @@
+D:\Repos\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.deps.json
+D:\Repos\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.runtimeconfig.json
+D:\Repos\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.runtimeconfig.dev.json
+D:\Repos\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.dll
+D:\Repos\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.pdb
+D:\Repos\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+D:\Repos\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+D:\Repos\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.AssemblyInfo.cs
+D:\Repos\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.dll
+D:\Repos\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.pdb
+D:\Repos\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.1\11. The Party Reservation Filter Module.csprojAssemblyReference.cache

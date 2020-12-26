@@ -1,0 +1,16 @@
+{{#each data}}
+        <div class="card text-white bg-primary">
+            <div class="card-body">
+                <blockquote class="card-blockquote">
+                    <img src= {{image}} />
+                    <p>{{description}}</p>
+                    <footer>Someone famous in
+                        <cite title="Source Title">Source Title</cite>
+                    </footer>
+                    <div class="pull-right">
+                        <a href="details/{{id}}" class="btn btn-info">Details</a>
+                    </div>
+                </blockquote>
+            </div>
+        </div>
+{{/each}}

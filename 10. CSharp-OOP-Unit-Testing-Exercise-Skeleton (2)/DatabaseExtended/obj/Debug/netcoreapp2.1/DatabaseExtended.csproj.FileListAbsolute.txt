@@ -1,0 +1,7 @@
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.deps.json
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended\bin\Debug\netcoreapp2.1\DatabaseExtended.pdb
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfoInputs.cache
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.AssemblyInfo.cs
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\DatabaseExtended\obj\Debug\netcoreapp2.1\DatabaseExtended.pdb

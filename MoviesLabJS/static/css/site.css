@@ -1,0 +1,71 @@
+.container#container{
+    background-image: url(https://st2.depositphotos.com/1001378/11309/v/950/depositphotos_113095552-stock-illustration-brown-cinema-background-with-retro.jpg);
+    background-repeat: round;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+body{
+    
+    background-image: url(https://swank.azureedge.net/swank/prod-media/13063/16_movies1920x1080_pi.jpg?width=1920&height=1080&mode=crop);
+    background-repeat: initial;
+}
+
+div.row{
+    margin-left: 25px;   
+}
+
+
+.card {
+    min-width: 18rem;
+    max-width: 18rem;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.btn-group {
+    margin-right: 20px;
+}
+
+.badge {
+    margin-left: 10px;
+}
+
+.enrolled-span {
+    text-decoration: underline;
+    background-color: green;
+    color: white;
+    padding: 2%;
+    border-radius: 4px;
+}
+
+.notifications {
+    background-color: rgba(238, 74, 74, 0.699);
+    margin: 0 auto;
+    text-align: center;
+    padding: 1%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 6px;
+    color: white;
+    font-style: italic;
+    text-decoration: underline;
+    box-shadow: 0 5px 10px #cccccc;
+}
+
+#app > div.mt-3 > div > p{
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+
+.py-3 > a{
+    font-weight: 600;
+    font-size: 20px;
+}

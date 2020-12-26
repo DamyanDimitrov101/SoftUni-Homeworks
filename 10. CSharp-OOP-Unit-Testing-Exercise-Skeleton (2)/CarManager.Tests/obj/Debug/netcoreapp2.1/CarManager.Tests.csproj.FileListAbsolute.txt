@@ -1,0 +1,16 @@
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.deps.json
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.json
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.runtimeconfig.dev.json
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.Tests.pdb
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfoInputs.cache
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.AssemblyInfo.cs
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.pdb
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\bin\Debug\netcoreapp2.1\CarManager.pdb
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csprojAssemblyReference.cache
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\CarManager.Tests\obj\Debug\netcoreapp2.1\CarManager.Tests.csproj.CopyComplete

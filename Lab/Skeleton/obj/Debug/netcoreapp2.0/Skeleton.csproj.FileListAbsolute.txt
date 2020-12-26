@@ -1,0 +1,10 @@
+D:\Repos\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.deps.json
+D:\Repos\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.json
+D:\Repos\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.runtimeconfig.dev.json
+D:\Repos\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.dll
+D:\Repos\Lab\Skeleton\bin\Debug\netcoreapp2.0\Skeleton.pdb
+D:\Repos\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfoInputs.cache
+D:\Repos\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.AssemblyInfo.cs
+D:\Repos\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.dll
+D:\Repos\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.pdb
+D:\Repos\Lab\Skeleton\obj\Debug\netcoreapp2.0\Skeleton.csprojAssemblyReference.cache

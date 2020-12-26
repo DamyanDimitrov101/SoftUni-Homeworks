@@ -1,0 +1,13 @@
+D:\Repos\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.deps.json
+D:\Repos\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Repos\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csprojAssemblyReference.cache
+D:\Repos\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfoInputs.cache
+D:\Repos\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.AssemblyInfo.cs
+D:\Repos\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.runtimeconfig.json
+D:\Repos\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.runtimeconfig.dev.json
+D:\Repos\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\Repos\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\Repos\BookShop.Data\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\Repos\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.csproj.CopyComplete
+D:\Repos\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Repos\BookShop.Data\obj\Debug\netcoreapp3.1\BookShop.Data.pdb

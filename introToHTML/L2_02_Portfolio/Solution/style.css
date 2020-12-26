@@ -1,0 +1,120 @@
+body{
+    background-color: #ffffff;
+    margin: 0px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+header{
+    padding: 0px;
+    font-family:  Helvetica, sans-serif;
+    background-color: #f0f1f5;
+}
+
+
+header ul{    
+    padding: 10px;
+    margin-left: 18%;
+    margin-top: 0;
+    margin-bottom: 0;    
+}
+
+body header ul li{
+    display: inline-block;
+    background-color: #f0f1f5;
+    border-left: solid white;
+   
+    padding-top: 20px;        
+    padding-bottom: 20px;    
+    padding-left: 50px;    
+    padding-right: 50px;
+
+    text-align: center;
+    
+}
+
+header ul li i{
+    font-size: x-large;
+    padding-bottom: 20px;
+    color: #00d3d4;
+    size: 90%;
+}
+
+header ul li a{
+    text-decoration: none;
+    color: #00d3d4;
+}
+
+header ul li:nth-last-child(1){
+    border-radius: 2px;
+        border-right: solid white;
+}
+
+main{
+    margin: 0px;
+    display: block;
+}
+
+
+main section{
+    display: inline-block;
+    margin: 0;
+}
+
+main section:nth-child(1) h2{
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+
+main section:nth-child(1) article:nth-last-child(1){
+    margin-top: 20px;
+}
+
+main section:nth-child(1){
+    background-color: #555c6f;
+    padding-top: 10px;    
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 10%;
+    margin: 0;
+
+}
+
+main section:nth-child(1) article{
+    padding-top: 40px;
+}
+
+
+main section:nth-child(1){
+    color: #b2b6c0;
+}
+
+main section:nth-child(1) i{
+    margin-right: 10px;
+}
+main section:nth-last-child(1){
+    background-color: #00d3d4;
+        padding: 10%;
+        margin: 0;
+}
+
+main section:nth-last-child(1) h2{
+    margin: 0;
+}
+
+main section:nth-last-child(1) p{
+    margin: 0;
+    
+    padding-top: 10px;
+}
+
+main section:nth-last-child(1) article:nth-last-child(1){
+    background-image: url(../Requirements-and-Resources/Images/thinking-man.png);
+    padding: 50%;
+}
+
+main section:nth-last-child(1){
+        display: -webkit-inline-box;
+        padding-right: 30%;
+        
+}

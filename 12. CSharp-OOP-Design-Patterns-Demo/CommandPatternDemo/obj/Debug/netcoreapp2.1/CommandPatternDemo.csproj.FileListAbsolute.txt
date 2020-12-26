@@ -1,0 +1,10 @@
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\CommandPatternDemo\bin\Debug\netcoreapp2.1\CommandPatternDemo.deps.json
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\CommandPatternDemo\bin\Debug\netcoreapp2.1\CommandPatternDemo.runtimeconfig.json
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\CommandPatternDemo\bin\Debug\netcoreapp2.1\CommandPatternDemo.runtimeconfig.dev.json
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\CommandPatternDemo\bin\Debug\netcoreapp2.1\CommandPatternDemo.dll
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\CommandPatternDemo\bin\Debug\netcoreapp2.1\CommandPatternDemo.pdb
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\CommandPatternDemo\obj\Debug\netcoreapp2.1\CommandPatternDemo.csprojAssemblyReference.cache
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\CommandPatternDemo\obj\Debug\netcoreapp2.1\CommandPatternDemo.AssemblyInfoInputs.cache
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\CommandPatternDemo\obj\Debug\netcoreapp2.1\CommandPatternDemo.AssemblyInfo.cs
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\CommandPatternDemo\obj\Debug\netcoreapp2.1\CommandPatternDemo.dll
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\CommandPatternDemo\obj\Debug\netcoreapp2.1\CommandPatternDemo.pdb

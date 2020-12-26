@@ -1,0 +1,10 @@
+D:\Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.deps.json
+D:\Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.json
+D:\Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.runtimeconfig.dev.json
+D:\Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.dll
+D:\Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\bin\Debug\netcoreapp2.1\ValidationAttributes.pdb
+D:\Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.csprojAssemblyReference.cache
+D:\Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfoInputs.cache
+D:\Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.AssemblyInfo.cs
+D:\Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.dll
+D:\Repos\Reflection-and-Attributes-Skeleton\ValidationAttributes\obj\Debug\netcoreapp2.1\ValidationAttributes.pdb

@@ -1,0 +1,10 @@
+D:\Repos\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.csprojAssemblyReference.cache
+D:\Repos\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfoInputs.cache
+D:\Repos\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.AssemblyInfo.cs
+D:\Repos\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.deps.json
+D:\Repos\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.json
+D:\Repos\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.runtimeconfig.dev.json
+D:\Repos\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+D:\Repos\P05_GreedyTimes\bin\Debug\netcoreapp2.0\P05_GreedyTimes.pdb
+D:\Repos\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.dll
+D:\Repos\P05_GreedyTimes\obj\Debug\netcoreapp2.0\P05_GreedyTimes.pdb

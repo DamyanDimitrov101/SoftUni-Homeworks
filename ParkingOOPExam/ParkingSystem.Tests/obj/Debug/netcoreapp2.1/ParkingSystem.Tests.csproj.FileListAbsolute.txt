@@ -1,0 +1,16 @@
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.deps.json
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.runtimeconfig.json
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.runtimeconfig.dev.json
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.dll
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.Tests.pdb
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.dll
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\bin\Debug\netcoreapp2.1\ParkingSystem.pdb
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csprojAssemblyReference.cache
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.AssemblyInfoInputs.cache
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.AssemblyInfo.cs
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.csproj.CopyComplete
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.dll
+D:\Repos\ParkingOOPExam\ParkingSystem.Tests\obj\Debug\netcoreapp2.1\ParkingSystem.Tests.pdb

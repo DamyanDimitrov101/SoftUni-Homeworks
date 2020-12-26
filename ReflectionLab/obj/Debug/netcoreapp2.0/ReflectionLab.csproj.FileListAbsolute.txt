@@ -1,0 +1,10 @@
+D:\Repos\ReflectionLab\bin\Debug\netcoreapp2.0\ReflectionLab.deps.json
+D:\Repos\ReflectionLab\bin\Debug\netcoreapp2.0\ReflectionLab.runtimeconfig.json
+D:\Repos\ReflectionLab\bin\Debug\netcoreapp2.0\ReflectionLab.runtimeconfig.dev.json
+D:\Repos\ReflectionLab\bin\Debug\netcoreapp2.0\ReflectionLab.dll
+D:\Repos\ReflectionLab\bin\Debug\netcoreapp2.0\ReflectionLab.pdb
+D:\Repos\ReflectionLab\obj\Debug\netcoreapp2.0\ReflectionLab.csprojAssemblyReference.cache
+D:\Repos\ReflectionLab\obj\Debug\netcoreapp2.0\ReflectionLab.AssemblyInfoInputs.cache
+D:\Repos\ReflectionLab\obj\Debug\netcoreapp2.0\ReflectionLab.AssemblyInfo.cs
+D:\Repos\ReflectionLab\obj\Debug\netcoreapp2.0\ReflectionLab.dll
+D:\Repos\ReflectionLab\obj\Debug\netcoreapp2.0\ReflectionLab.pdb

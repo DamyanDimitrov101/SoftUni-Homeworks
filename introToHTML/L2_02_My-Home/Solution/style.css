@@ -1,0 +1,57 @@
+body{
+    size: 1300px;
+    padding: 40px 320px;
+    font-family: "Open Sans", sans-serif;
+}
+
+header{
+    display: inline-block;
+}
+
+header article{
+    border-left: #656565 solid 3px;
+    padding-left: 30px;
+    display: inline-block;
+}
+
+.gallery{
+    margin-left: 480px;
+}
+
+h2{
+    font-size: 37px;
+    text-decoration: none;
+    font-weight: 20;
+    word-spacing: 3em;
+}
+
+header p{
+    color: #656565;
+}
+
+main {
+    padding-top: 30px;
+    display: inline-flex;
+    font-size: 20px;
+}
+
+.welcTo{
+    display: inline-block;
+}
+
+.ourselves{
+    display: inline-block;
+}
+
+.imgClass{
+    display: inline-block;
+}
+
+img{
+    width: 377px;
+    height: 249px;
+}
+
+main p{
+    margin-right: 20px;
+}

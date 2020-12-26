@@ -1,0 +1,10 @@
+D:\Repos\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+D:\Repos\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+D:\Repos\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+D:\Repos\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\Repos\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+D:\Repos\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csprojAssemblyReference.cache
+D:\Repos\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+D:\Repos\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+D:\Repos\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+D:\Repos\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb

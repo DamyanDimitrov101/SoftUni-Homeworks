@@ -1,0 +1,10 @@
+D:\Repos\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.csprojAssemblyReference.cache
+D:\Repos\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfoInputs.cache
+D:\Repos\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.AssemblyInfo.cs
+D:\Repos\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.deps.json
+D:\Repos\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.json
+D:\Repos\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.runtimeconfig.dev.json
+D:\Repos\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.dll
+D:\Repos\Restaurant\bin\Debug\netcoreapp2.1\Restaurant.pdb
+D:\Repos\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.dll
+D:\Repos\Restaurant\obj\Debug\netcoreapp2.1\Restaurant.pdb

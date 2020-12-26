@@ -1,0 +1,8 @@
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.deps.json
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\FightingArena\bin\Debug\netcoreapp2.1\FightingArena.pdb
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfoInputs.cache
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.AssemblyInfo.cs
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.dll
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.pdb
+D:\Repos\10. CSharp-OOP-Unit-Testing-Exercise-Skeleton (2)\FightingArena\obj\Debug\netcoreapp2.1\FightingArena.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\_Repos\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\_Repos\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\_Repos\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\_Repos\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\_Repos\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\_Repos\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+D:\_Repos\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\_Repos\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\_Repos\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\_Repos\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

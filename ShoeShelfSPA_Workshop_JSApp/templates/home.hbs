@@ -1,0 +1,30 @@
+{{>navigation}}
+<div class="container">
+    {{#if isLogged}}
+    <div class="shoes">
+        {{#each shoes}}
+        <div class="shoe">
+            <img src="{{imageURL}}">
+            <h3>{{name}}</h3>
+            <a href="#/details/{{offerId}}">Buy it for ${{price}}</a>
+        </div>
+        {{else}}
+            <p>No shoes to show :(</p>
+        {{/each}}
+    </div>
+
+    {{else}}
+
+
+    <div class="about-us">
+        <div>
+            <img src="./public/shoes.jpg" alt="">
+            <img src="./public/shoes2.jpg" alt="">
+        </div>
+        <p>
+            <a href="/register">Register Now</a> and Try it!
+        </p>
+    </div>
+    {{/if}}
+</div>
+{{>footer}}

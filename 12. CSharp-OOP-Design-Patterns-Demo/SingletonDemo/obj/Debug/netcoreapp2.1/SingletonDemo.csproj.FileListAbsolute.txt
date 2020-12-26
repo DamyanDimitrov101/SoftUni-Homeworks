@@ -1,0 +1,10 @@
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\SingletonDemo\bin\Debug\netcoreapp2.1\SingletonDemo.deps.json
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\SingletonDemo\bin\Debug\netcoreapp2.1\SingletonDemo.runtimeconfig.json
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\SingletonDemo\bin\Debug\netcoreapp2.1\SingletonDemo.runtimeconfig.dev.json
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\SingletonDemo\bin\Debug\netcoreapp2.1\SingletonDemo.dll
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\SingletonDemo\bin\Debug\netcoreapp2.1\SingletonDemo.pdb
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\SingletonDemo\obj\Debug\netcoreapp2.1\SingletonDemo.csprojAssemblyReference.cache
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\SingletonDemo\obj\Debug\netcoreapp2.1\SingletonDemo.AssemblyInfoInputs.cache
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\SingletonDemo\obj\Debug\netcoreapp2.1\SingletonDemo.AssemblyInfo.cs
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\SingletonDemo\obj\Debug\netcoreapp2.1\SingletonDemo.dll
+D:\Repos\12. CSharp-OOP-Design-Patterns-Demo\SingletonDemo\obj\Debug\netcoreapp2.1\SingletonDemo.pdb

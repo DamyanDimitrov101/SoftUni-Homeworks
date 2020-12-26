@@ -1,0 +1,10 @@
+D:\Repos\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.deps.json
+D:\Repos\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.runtimeconfig.json
+D:\Repos\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.runtimeconfig.dev.json
+D:\Repos\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.dll
+D:\Repos\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.csprojAssemblyReference.cache
+D:\Repos\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.AssemblyInfoInputs.cache
+D:\Repos\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.AssemblyInfo.cs
+D:\Repos\Skeleton\MortalEngines\bin\Debug\netcoreapp2.1\MortalEngines.pdb
+D:\Repos\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.dll
+D:\Repos\Skeleton\MortalEngines\obj\Debug\netcoreapp2.1\MortalEngines.pdb

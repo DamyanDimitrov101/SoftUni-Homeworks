@@ -1,0 +1,11 @@
+D:\Repos\Exercises Functional Programming\bin\Debug\netcoreapp2.1\Problem 1. Action Point.deps.json
+D:\Repos\Exercises Functional Programming\bin\Debug\netcoreapp2.1\Problem 1. Action Point.runtimeconfig.json
+D:\Repos\Exercises Functional Programming\bin\Debug\netcoreapp2.1\Problem 1. Action Point.runtimeconfig.dev.json
+D:\Repos\Exercises Functional Programming\bin\Debug\netcoreapp2.1\Problem 1. Action Point.dll
+D:\Repos\Exercises Functional Programming\bin\Debug\netcoreapp2.1\Problem 1. Action Point.pdb
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Problem 1. Action Point.csprojAssemblyReference.cache
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Problem 1. Action Point.csproj.CoreCompileInputs.cache
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Problem 1. Action Point.AssemblyInfoInputs.cache
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Problem 1. Action Point.AssemblyInfo.cs
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Problem 1. Action Point.dll
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Problem 1. Action Point.pdb

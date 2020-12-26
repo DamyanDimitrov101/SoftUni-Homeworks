@@ -1,0 +1,46 @@
+﻿@model IEnumerable<RealEstates.Services.Models.TagViewModel>
+
+<h1>Search properties by price</h1>
+<form method="get" action="/Properties/DoSearch" class="col-md-6">
+    <div>
+        Min price: <input name="minPrice" class="form-control" />
+    </div>
+    <hr />
+    <div>
+        Max price: <input name="maxPrice" class="form-control" />
+    </div>
+    <hr />
+    <div name="tag" class="custom-select" style="width:200px;">
+
+        <select>
+
+            <option>Select tag</option>
+            @foreach (var tag in this.Model)
+            {
+                <option>@tag.Name</option>
+            }
+        </select>
+
+
+        @*@{
+            List<SelectListItem> listItems = new List<SelectListItem>();
+
+            @foreach (var tag in this.Model)
+            {
+                    listItems.Add(new SelectListItem
+                {
+                    Text = tag.Name,
+                    Value = tag.Name
+                });
+            
+            }
+
+            
+        }
+
+        @Html.DropDownList("Examplo", listItems, "-- Select Status --")*@
+
+    </div>
+    <hr />
+    <input type="submit" class="btn btn-primary float-right" value="Search" />
+</form>

@@ -1,0 +1,10 @@
+D:\Repos\LoggerLib\bin\Debug\netcoreapp2.0\LoggerLib.deps.json
+D:\Repos\LoggerLib\bin\Debug\netcoreapp2.0\LoggerLib.runtimeconfig.json
+D:\Repos\LoggerLib\bin\Debug\netcoreapp2.0\LoggerLib.runtimeconfig.dev.json
+D:\Repos\LoggerLib\bin\Debug\netcoreapp2.0\LoggerLib.dll
+D:\Repos\LoggerLib\bin\Debug\netcoreapp2.0\LoggerLib.pdb
+D:\Repos\LoggerLib\obj\Debug\netcoreapp2.0\LoggerLib.csprojAssemblyReference.cache
+D:\Repos\LoggerLib\obj\Debug\netcoreapp2.0\LoggerLib.AssemblyInfoInputs.cache
+D:\Repos\LoggerLib\obj\Debug\netcoreapp2.0\LoggerLib.AssemblyInfo.cs
+D:\Repos\LoggerLib\obj\Debug\netcoreapp2.0\LoggerLib.dll
+D:\Repos\LoggerLib\obj\Debug\netcoreapp2.0\LoggerLib.pdb

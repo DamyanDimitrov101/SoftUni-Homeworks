@@ -1,0 +1,10 @@
+D:\Repos\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+D:\Repos\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+D:\Repos\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+D:\Repos\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+D:\Repos\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+D:\Repos\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csprojAssemblyReference.cache
+D:\Repos\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+D:\Repos\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+D:\Repos\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+D:\Repos\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.pdb

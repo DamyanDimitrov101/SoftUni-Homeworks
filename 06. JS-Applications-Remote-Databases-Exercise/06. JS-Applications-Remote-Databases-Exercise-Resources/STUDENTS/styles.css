@@ -1,0 +1,110 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+table{
+    border:1px solid #234465;
+    padding: 1%;
+    margin: 0 auto;
+    width: 70%;
+    border-radius: 4px;
+}
+table th{
+    text-decoration: underline;
+    text-align: left;
+}
+table tbody td{
+    text-align: left;
+    border-bottom:1px solid black;
+    padding: 0.5%;
+}
+
+table tbody tr:nth-child(even){
+    background-color: #234465;
+    color: white
+}
+
+table tbody tr:nth-child(odd){
+    color: #234465;
+    border-bottom: 1px solid black;
+}
+
+table tbody tr:nth-child(odd) button{
+    background: #234465;
+    color:white;
+}
+
+table tbody tr:nth-child(even) button{
+    background: white;
+    color:#234465;
+}
+
+table tr:hover{
+    text-decoration: underline;
+}
+
+div {
+    text-align: center;
+    padding: 70px;
+}
+
+div button{
+    border-radius: 20px;
+    margin: 20px;
+    font-size: 20px;
+    color: whitesmoke;
+    background-color: steelblue;
+}
+
+div button:hover{
+    font-size: 25px;
+    background-color: whitesmoke;
+    color: #000;
+    cursor: pointer;
+}
+
+label, input{
+    display:block;
+    margin: 0 auto;
+}
+
+form input{
+    margin-bottom: 1%;
+    width: 25%;
+}
+
+form{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form button{
+    margin: 0 auto;
+    display:block;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 4px;
+    background-color: steelblue;
+    color:white;
+    border: none;
+    padding: 0.5%;
+}
+
+.createStudent{
+    display: none;
+}
+
+div.errrorLog{
+    padding: 10px;
+    border: solid red;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    color: red;
+    display: none;
+}
+
+form button#cancelBtn{
+    background-color: grey;
+}

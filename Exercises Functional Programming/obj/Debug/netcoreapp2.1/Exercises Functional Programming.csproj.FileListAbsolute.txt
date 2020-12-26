@@ -1,0 +1,11 @@
+D:\Repos\Exercises Functional Programming\bin\Debug\netcoreapp2.1\Exercises Functional Programming.deps.json
+D:\Repos\Exercises Functional Programming\bin\Debug\netcoreapp2.1\Exercises Functional Programming.runtimeconfig.json
+D:\Repos\Exercises Functional Programming\bin\Debug\netcoreapp2.1\Exercises Functional Programming.runtimeconfig.dev.json
+D:\Repos\Exercises Functional Programming\bin\Debug\netcoreapp2.1\Exercises Functional Programming.dll
+D:\Repos\Exercises Functional Programming\bin\Debug\netcoreapp2.1\Exercises Functional Programming.pdb
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Exercises Functional Programming.csprojAssemblyReference.cache
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Exercises Functional Programming.csproj.CoreCompileInputs.cache
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Exercises Functional Programming.AssemblyInfoInputs.cache
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Exercises Functional Programming.AssemblyInfo.cs
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Exercises Functional Programming.dll
+D:\Repos\Exercises Functional Programming\obj\Debug\netcoreapp2.1\Exercises Functional Programming.pdb

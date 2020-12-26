@@ -1,0 +1,11 @@
+D:\Repos\UnitTestEXAMOOP\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\Repos\UnitTestEXAMOOP\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\Repos\UnitTestEXAMOOP\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\Repos\UnitTestEXAMOOP\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\Repos\UnitTestEXAMOOP\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\Repos\UnitTestEXAMOOP\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\Repos\UnitTestEXAMOOP\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csprojAssemblyReference.cache
+D:\Repos\UnitTestEXAMOOP\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\Repos\UnitTestEXAMOOP\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\Repos\UnitTestEXAMOOP\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\Repos\UnitTestEXAMOOP\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb

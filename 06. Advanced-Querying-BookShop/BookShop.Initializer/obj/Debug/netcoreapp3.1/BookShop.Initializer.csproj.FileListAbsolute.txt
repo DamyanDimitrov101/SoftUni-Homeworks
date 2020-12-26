@@ -1,0 +1,13 @@
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.deps.json
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Initializer.pdb
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.dll
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.dll
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Data.pdb
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\bin\Debug\netcoreapp3.1\BookShop.Models.pdb
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csprojAssemblyReference.cache
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfoInputs.cache
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.AssemblyInfo.cs
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.csproj.CopyComplete
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.dll
+D:\Repos\06. Advanced-Querying-BookShop\BookShop.Initializer\obj\Debug\netcoreapp3.1\BookShop.Initializer.pdb

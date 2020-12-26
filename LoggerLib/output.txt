@@ -1,0 +1,21 @@
+{
+  "log": {
+    "date": 3/31/2015 5:33:07 PM,
+    "level": Error,
+    "message": Error parsing request
+  }
+}
+{
+  "log": {
+    "date": 3/31/2015 5:33:07 PM,
+    "level": Critical,
+    "message": No connection string found in App.config
+  }
+}
+{
+  "log": {
+    "date": 3/31/2015 5:33:07 PM,
+    "level": Fatal,
+    "message": mscorlib.dll does not respond
+  }
+}

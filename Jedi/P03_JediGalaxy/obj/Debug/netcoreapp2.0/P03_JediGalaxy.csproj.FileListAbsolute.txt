@@ -1,0 +1,10 @@
+D:\Repos\Jedi\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.deps.json
+D:\Repos\Jedi\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.json
+D:\Repos\Jedi\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.runtimeconfig.dev.json
+D:\Repos\Jedi\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\Repos\Jedi\P03_JediGalaxy\bin\Debug\netcoreapp2.0\P03_JediGalaxy.pdb
+D:\Repos\Jedi\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.csprojAssemblyReference.cache
+D:\Repos\Jedi\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfoInputs.cache
+D:\Repos\Jedi\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.AssemblyInfo.cs
+D:\Repos\Jedi\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.dll
+D:\Repos\Jedi\P03_JediGalaxy\obj\Debug\netcoreapp2.0\P03_JediGalaxy.pdb

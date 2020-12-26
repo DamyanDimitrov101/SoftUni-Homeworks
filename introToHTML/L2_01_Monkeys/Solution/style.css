@@ -1,0 +1,69 @@
+body{
+    background-color: #FAEBC8;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 200px;
+    padding-right: 200px;
+    size: 1300px;
+}
+
+section{
+    -webkit-box-shadow: 5px 5px 15px 5px brown; 
+box-shadow: 5px 5px 15px 5px brown;
+border-radius: 14px;
+background-color: white;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+
+
+img{
+    width: 100px;   
+    margin-left: 30%;
+    margin-top: 0;
+}
+
+p{
+    width: 64%;
+    padding-left: 15%;
+    font-size: 20px;
+    margin: 25px 0px;
+}
+
+h2{
+    text-align: center;
+}
+
+
+
+.shit{
+    flex: 1 1 150px;
+    margin-top: 40px;
+    align-self: center;
+    margin-left: 150px;
+    margin-bottom: 30px;
+}
+
+.hear{
+    flex: 1 1 150px;
+    align-self: center;
+}
+
+.hear p:nth-last-child(1){
+    margin-top: 20px;
+    padding-top: 40px;
+}
+
+.speak{
+    margin-top: 30px;
+    flex: 1 1 150px;
+    align-self: center;      
+    margin-right: 150px;
+    margin-bottom: 30px;
+}
+
+.speak p:nth-last-child(1){
+    padding-top: 10px;
+}

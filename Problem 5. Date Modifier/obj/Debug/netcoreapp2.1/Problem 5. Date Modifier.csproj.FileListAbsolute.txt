@@ -1,0 +1,11 @@
+D:\Repos\Problem 5. Date Modifier\bin\Debug\netcoreapp2.1\Problem 5. Date Modifier.deps.json
+D:\Repos\Problem 5. Date Modifier\bin\Debug\netcoreapp2.1\Problem 5. Date Modifier.runtimeconfig.json
+D:\Repos\Problem 5. Date Modifier\bin\Debug\netcoreapp2.1\Problem 5. Date Modifier.runtimeconfig.dev.json
+D:\Repos\Problem 5. Date Modifier\bin\Debug\netcoreapp2.1\Problem 5. Date Modifier.dll
+D:\Repos\Problem 5. Date Modifier\bin\Debug\netcoreapp2.1\Problem 5. Date Modifier.pdb
+D:\Repos\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.csprojAssemblyReference.cache
+D:\Repos\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.csproj.CoreCompileInputs.cache
+D:\Repos\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.AssemblyInfoInputs.cache
+D:\Repos\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.AssemblyInfo.cs
+D:\Repos\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.dll
+D:\Repos\Problem 5. Date Modifier\obj\Debug\netcoreapp2.1\Problem 5. Date Modifier.pdb

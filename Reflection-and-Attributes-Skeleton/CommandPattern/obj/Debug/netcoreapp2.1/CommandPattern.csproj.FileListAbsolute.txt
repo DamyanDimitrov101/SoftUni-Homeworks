@@ -1,0 +1,10 @@
+D:\Repos\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.deps.json
+D:\Repos\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.runtimeconfig.json
+D:\Repos\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.runtimeconfig.dev.json
+D:\Repos\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.dll
+D:\Repos\Reflection-and-Attributes-Skeleton\CommandPattern\bin\Debug\netcoreapp2.1\CommandPattern.pdb
+D:\Repos\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.csprojAssemblyReference.cache
+D:\Repos\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.AssemblyInfoInputs.cache
+D:\Repos\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.AssemblyInfo.cs
+D:\Repos\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.dll
+D:\Repos\Reflection-and-Attributes-Skeleton\CommandPattern\obj\Debug\netcoreapp2.1\CommandPattern.pdb
