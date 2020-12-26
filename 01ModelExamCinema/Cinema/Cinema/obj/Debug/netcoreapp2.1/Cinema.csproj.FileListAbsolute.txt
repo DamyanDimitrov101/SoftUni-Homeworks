@@ -1,0 +1,10 @@
+D:\_Repos\01ModelExamCinema\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.deps.json
+D:\_Repos\01ModelExamCinema\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.json
+D:\_Repos\01ModelExamCinema\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.runtimeconfig.dev.json
+D:\_Repos\01ModelExamCinema\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.dll
+D:\_Repos\01ModelExamCinema\Cinema\Cinema\bin\Debug\netcoreapp2.1\Cinema.pdb
+D:\_Repos\01ModelExamCinema\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.csprojAssemblyReference.cache
+D:\_Repos\01ModelExamCinema\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfoInputs.cache
+D:\_Repos\01ModelExamCinema\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.AssemblyInfo.cs
+D:\_Repos\01ModelExamCinema\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.dll
+D:\_Repos\01ModelExamCinema\Cinema\Cinema\obj\Debug\netcoreapp2.1\Cinema.pdb
