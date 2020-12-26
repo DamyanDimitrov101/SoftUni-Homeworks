@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace SoftJail.Data.Models.Enums
+{
+    public enum Position
+    {
+        //Position - Position enumeration with possible values: “” (required)
+
+
+        Overseer=0, 
+        Guard=1, 
+        Watcher=2,      
+        Labour=3
+    }
+}

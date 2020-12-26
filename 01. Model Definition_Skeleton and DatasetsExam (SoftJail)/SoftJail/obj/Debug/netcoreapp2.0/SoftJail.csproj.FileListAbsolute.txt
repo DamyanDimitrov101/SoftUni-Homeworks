@@ -1,0 +1,22 @@
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
+C:\Users\Ivet\Desktop\SkeletonFinal\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.genruntimeconfig.cache
+D:\_Repos\01. Model Definition_Skeleton and DatasetsExam\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+D:\_Repos\01. Model Definition_Skeleton and DatasetsExam\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+D:\_Repos\01. Model Definition_Skeleton and DatasetsExam\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+D:\_Repos\01. Model Definition_Skeleton and DatasetsExam\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+D:\_Repos\01. Model Definition_Skeleton and DatasetsExam\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+D:\_Repos\01. Model Definition_Skeleton and DatasetsExam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+D:\_Repos\01. Model Definition_Skeleton and DatasetsExam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+D:\_Repos\01. Model Definition_Skeleton and DatasetsExam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+D:\_Repos\01. Model Definition_Skeleton and DatasetsExam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+D:\_Repos\01. Model Definition_Skeleton and DatasetsExam\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
