@@ -10,3 +10,5 @@ router.setRoutes([
     {path: '/login', component: 'login-component'},
     {path: '/register', component: 'register-component'},
   ]);
+
+
