@@ -13,7 +13,7 @@ Submit your solutions in the [SoftUni Judge System](https://judge.softuni.bg/Con
     * The buttons in the second and the third row should have class - **fill**
     * Every last button in the row should have class - **hover**
 * You must use the following three colors: green(**rgb(0, 102, 0)**), white(**rgb(251, 251, 251)**) and gray(**rgb(51, 51, 51)**)
-* Use _fontawesome_ for this task. Import it in your css, with the **@import** rule
+* Use _fontawesome_ for this task. Import it ifuck ypun your css, with the **@import** rule
 
 ## Constraints
 * Change the **cursor** property to [pointer](https://www.w3schools.com/cssref/pr_class_cursor.asp)
