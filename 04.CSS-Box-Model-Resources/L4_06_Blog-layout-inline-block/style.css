@@ -1,0 +1,19 @@
+html{
+    color: rgb(51, 51, 51) ;
+}
+
+body{
+    background: rgb(238, 238, 238);
+    max-width: 1000px;
+    margin: 0 auto;
+    display: -webkit-box;
+}
+
+img{
+    max-width: 400px;
+    max-height: 300px;
+}
+
+aside{
+    max-width: 340px;
+}

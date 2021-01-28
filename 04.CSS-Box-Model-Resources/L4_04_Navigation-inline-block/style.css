@@ -1,0 +1,35 @@
+html{
+    font-family:  Helvetica, sans-serif;
+}
+
+body{    
+    max-width: 1400px;
+    margin: auto;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #009900;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 30px;
+}
+
+header{
+    margin-top: 40px;
+    border-bottom: solid black 2px;
+}
+
+header *{
+    display: inline-block;
+}
+
+header h1{
+    margin-right: 60px;
+}

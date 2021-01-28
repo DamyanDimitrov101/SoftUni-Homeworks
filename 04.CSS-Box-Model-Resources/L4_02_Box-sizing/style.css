@@ -1,0 +1,23 @@
+html{
+    box-sizing: inherit;
+}
+
+section{
+    box-sizing: border-box;
+    width: 250px;
+    height: 244px;
+    border: dashed #23CA85 3px;    
+}
+
+section h1{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+section p{
+    padding: 20px;
+    border: solid blue 5px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+body{
+    max-width: 1200px;
+    margin: auto;
+    background: #EEEEEE;
+}
+
+.gallery{
+    margin-top: 40px;
+    list-style: none;
+}
+.gallery li{
+    display: inline-block;
+    border: solid black 0.4rem;
+    padding: 10px;
+    background-color: white;
+    margin: 17px;
+}
+
+.gallery li img{
+    max-width: 300px;
+    max-height: 450px;
+    box-sizing: border-box;
+}
