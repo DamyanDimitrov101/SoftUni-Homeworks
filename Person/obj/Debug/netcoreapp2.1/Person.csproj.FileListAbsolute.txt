@@ -1,9 +1,0 @@
-D:\Repos\Person\bin\Debug\netcoreapp2.1\Person.deps.json
-D:\Repos\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.json
-D:\Repos\Person\bin\Debug\netcoreapp2.1\Person.runtimeconfig.dev.json
-D:\Repos\Person\bin\Debug\netcoreapp2.1\Person.dll
-D:\Repos\Person\bin\Debug\netcoreapp2.1\Person.pdb
-D:\Repos\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfoInputs.cache
-D:\Repos\Person\obj\Debug\netcoreapp2.1\Person.AssemblyInfo.cs
-D:\Repos\Person\obj\Debug\netcoreapp2.1\Person.dll
-D:\Repos\Person\obj\Debug\netcoreapp2.1\Person.pdb
