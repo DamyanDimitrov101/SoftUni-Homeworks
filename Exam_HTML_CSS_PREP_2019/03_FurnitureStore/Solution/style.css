@@ -1,0 +1,257 @@
+@import url('https://use.fontawesome.com/releases/v5.15.1/css/all.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;500&display=swap');
+
+
+html{
+    font-family: Noto Sans JP, sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+}
+
+header{
+    background: #F93700;
+    text-align: center;
+    padding: 15px;
+}
+
+main{    
+    background: #F0E4E4;
+    text-align: center;
+}
+
+footer{    
+    background: #F0E4E4;
+    text-align: center;
+}
+
+.header-wrapper *{
+    max-width: 1600px;
+    margin: 0px auto;
+    display: inline-block;
+}
+
+header ul{
+    vertical-align: middle;
+    margin: 0px;
+    list-style: none;
+    display: inline-block;
+}
+
+header nav{
+    padding-right: 150px;
+}
+
+header ul li{
+    display: inline-block;
+    text-decoration: none;
+    padding-left: 40px;
+}
+
+header ul a{
+    color: white;
+    text-decoration: none;
+    font-weight: lighter;
+    font-size: 14px;
+}
+
+.searchBar{
+    margin-right: 80px;
+    vertical-align: middle;
+    
+}
+
+
+.searchBar form{
+    vertical-align: middle;
+}
+
+.searchBar input,
+.searchBar button
+{
+    float: left;
+}
+
+.searchBar input{
+    width: 290px;
+    padding: 8px;
+}
+
+
+.searchBar button{
+    background: #B6AFAF;
+    color: white;
+    border: none;
+    height: 35px;
+    width: 60px;   
+}
+
+.account{
+    vertical-align: middle;
+    color: white;
+    display: inline-block;
+}
+
+.account i{
+    padding-right: 10px;
+}
+
+/* MAIN */
+.content-wrapper{
+    max-width: 1600px;
+    margin: 0px auto;
+    display: inline-block;
+    text-align: center;
+    margin-left: 40px;
+}
+
+.content-collection{
+    text-align: start;
+}
+
+.content-rooms-img {
+    margin-right: 20px;
+    max-width: fit-content;
+    display: inline-block;
+    
+}
+
+.content-rooms-img img{
+    margin-top: 40px;
+    margin-right: 15px;
+    max-width: 240px;
+    height: 240px;
+}
+
+.collection-text,
+.collection-img{
+    display: inline-block;
+}
+
+.collection-img{
+    max-width: 240px;
+    max-height: 240px;
+    margin-left: 25px;
+}
+
+.collection-img img{     
+    max-width: 700px;
+    max-height: 700px;   
+}
+
+.collection-text{
+    text-align: start;
+    vertical-align: top;
+}
+
+.collection-text h2{
+    color: #F93700;
+    font-size: 38px;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+
+.collection-text p{
+    color: #B6AFAF;
+    margin: 0px;
+    font-weight: normal;
+}
+
+.collection-text button{
+    background: #F93700;
+    color: white;
+    font-size: 19px;
+    margin-top: 20px;
+    padding: 15px 20px;
+    border-radius: 7px;
+}
+
+/* benefits */
+
+.benefits{
+    background: #CAC3C3;
+    width: 1075px;
+    height: 250px;
+    margin-top: 20px;    
+}
+
+.benefits-item{
+    display: inline-block;
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    margin-top: 45px;
+    margin-right: 60px;
+}
+
+.benefits-item:first-child{
+    margin-left: 60px;
+}
+
+.benefits-item img{
+    vertical-align: middle;
+    width: 100%;
+    padding: 20px;
+    background: #E6D6D6;
+    border: #E6D6D6 solid;
+    border-radius: 130px;
+    max-width: 66px;
+}
+
+.benefits-item p{
+    margin: 0px;
+    padding: 0px;
+    color: gray;
+}
+
+.benefits-item h5{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* FOOTER */
+
+.footer-wrapper{
+    max-width: 1600px;
+    margin: 0px auto;
+    display: inline-block;  
+    color: gray;
+}
+
+.footer-wrapper nav{
+    width: 100%;
+    text-align: left;
+}
+
+.footer-wrapper ul{
+    list-style: none;
+    text-align: left;
+}
+
+.footer-wrapper ul li{
+    display: inline-block;
+}
+
+.footer-wrapper ul a{
+    text-decoration: none;
+    color: gray;
+}
+
+.footer-wrapper > article{
+    display: inline-block;
+}
+
+.footer-nav{
+    margin-right: 150px;
+}
+
+.contacts{
+    margin-right: 60px;
+}
+
+.contacts a{
+    text-decoration: none;
+    color: gray;
+}
