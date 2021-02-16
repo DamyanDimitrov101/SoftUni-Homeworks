@@ -1,0 +1,30 @@
+html *{
+    font-family: Georgia, serif;
+    font-size: 1em;
+    background: #EEEEEE;
+}
+
+body{
+    margin: 100px auto;
+    display: flex;
+    max-width: 1280px;
+    min-width: 400px;
+}
+
+.gallery-list{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.gallery-list li{
+    display: flex;
+    margin-bottom: 70px;
+    border: 6px solid rgb(0, 0, 0);
+    padding: 20px;
+    background: #fff;
+    align-items: center;
+}
+
