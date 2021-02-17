@@ -1,0 +1,37 @@
+html *{
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(238, 238, 238);
+    display: flex;
+    justify-content: center;
+    margin: 200px auto;
+    max-width: 1205px;
+    flex-wrap: wrap;
+}
+
+.container{
+    display: flex;
+    flex-grow: 1;
+}
+
+.container article{
+    display: flex;    
+    flex-basis: 30%;
+    justify-content: stretch;
+}
+
+.container article img{
+    border-radius: 12px;
+    width: 92%;
+    height: 450px;
+}
+
+.container article:nth-child(2){    
+    flex-basis: 100%;
+}
+
+.container article:nth-child(2) img{    
+    flex-basis: 97%;
+}

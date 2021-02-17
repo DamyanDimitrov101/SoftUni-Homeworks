@@ -1,0 +1,85 @@
+html *{
+    box-sizing: border-box;
+}
+
+body{
+    background: rgb(238, 238, 238);
+    max-width: 1005px;
+    margin: 100px auto;
+}
+
+h2{
+    margin-bottom: 40px;
+}
+
+.masonry .gallery{
+    display: inline-block;
+    width: 100%;
+    columns: 3 150px;
+    column-gap: 1rem;
+}
+
+.masonry .card{
+  width: 130px;
+  background: #fff;
+  margin: 0 1rem 1rem 0;
+  display: inline-block;
+  width: 100%;
+  border-radius: 15px;
+  color: gray;
+}
+
+.card img{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.card p{
+    padding: 0 30px;
+    width: 100%;
+    display: inline-block;
+    font-size: 19px;
+}
+
+.card h4{
+    font-size: 23px;
+    padding: 0;
+    margin: 20px 30px 0px;
+}
+
+.card .footer{
+    padding:20px 30px;
+    margin-bottom: 0;
+    border-top: 2px solid lightgray;
+}
+
+
+/* Flex */
+
+.flex .gallery{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+.flex .card{
+    flex-grow: 1;
+    margin-left: 10px;
+    background: #fff;
+    margin: 20px 0px;
+    display: flex;
+    width: 100%;
+    border-radius: 15px;
+    color: gray;
+    flex-direction: column;
+    margin-right: 30px;
+    max-width: 31.3%;
+    justify-content: space-between;
+}
+
+.flex .card:nth-child(3),
+.flex .card:nth-child(6){
+    margin-right: 0;
+}
