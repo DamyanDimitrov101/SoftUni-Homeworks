@@ -1,0 +1,10 @@
+.signUp button{
+    background: white;
+    border-radius: 4px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.needAWebsite .content button{
+    font-weight: bold;
+}

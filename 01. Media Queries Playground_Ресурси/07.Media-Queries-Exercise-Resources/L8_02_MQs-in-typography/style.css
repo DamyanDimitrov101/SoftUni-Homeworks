@@ -1,13 +1,13 @@
 html{
     color: rgb(51, 51, 51) ;
     font-family: Helvetica, sans-serif;
+    font-size: 16px;
 }
 
 body{
     background: rgb(238, 238, 238);
     max-width: 1205px;
     margin: 0 auto;
-    font-size: 16px;
     line-height: 1.5;
 }
 
@@ -15,7 +15,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-
+    margin: 0 auto;
 }
 
 
@@ -26,7 +26,7 @@ header{
 }
 
 main{
-    width: 65%;
+    width: 100%;
 }
 
 aside{
@@ -62,19 +62,14 @@ img{
     border-left: rgb(209, 207, 207) solid 4px;
     padding-left: 30px;
     font-family: Georgia, serif ;
+    display: flex;
+    flex-direction: column;
 }
 .blockquote p{
     margin: 0;
     padding: 0;
     padding-bottom: 20px;
-}
-
-.blockquote span{
-    margin: 0;
-    padding: 0;
-    padding-bottom: 20px;
-    position: relative;
-    right: -278px;
+    flex-basis: 100%;
 }
 
 .firt-article-stairsImage{
@@ -120,3 +115,53 @@ aside a{
     color: green;
 }
 
+.author {
+    align-self: flex-end;
+}
+
+@media all and (max-width: 1100px){
+    .page{
+        max-width: 90%;
+    }
+}
+
+@media all and (max-width: 500px){
+    .article{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    html{        
+        font-size: 12px;
+    }
+}
+
+@media all and (min-width:500px){
+    html{
+        font-size: 14px;
+    }
+}
+
+@media all and (min-width:600px){
+    html{
+        font-size: 16px;
+    }
+}
+
+@media all and (min-width:800px){
+    html{
+        font-size: 18px;
+    }
+}
+
+@media all and (min-width:1300px){
+    html{
+        font-size: 21px;
+    }
+}
+
+@media all and (min-width:1800px){
+    html{
+        font-size: 23px;
+    }
+}

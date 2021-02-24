@@ -1,0 +1,49 @@
+html{
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;    
+}
+
+h1{
+    font-size: 31px;
+    color: purple;
+}
+
+header nav ul li a{
+    color: black;
+    font-weight: 600;
+}
+
+
+header h1::after{
+    font-size: 10px;
+    font-weight: lighter;
+    font-style: oblique;
+}
+
+
+.ourTeam h2{
+    font-size: 1.5em;
+}
+
+
+.signUp-content h2{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    line-height: 1;
+    width: fit-content;
+
+}
+
+footer h4{
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+footer h5{
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 2px;
+}

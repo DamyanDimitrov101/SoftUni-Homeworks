@@ -1,0 +1,323 @@
+@import url('reset.css');
+@import url('forms.css');
+@import url('buttons.css');
+@import url('typography.css');
+@import url('https://use.fontawesome.com/releases/v5.15.2/css/all.css');
+
+
+body{
+    height: 100%;
+    width: 100vw;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0 10%;
+}
+
+header nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul li{
+    margin-right: 18px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+
+}
+
+header h1::after{
+    content: 'The last web agency you will ever need';
+    text-transform: uppercase;
+    color: black;
+}
+header h1{
+    display: flex;
+    flex-direction: column;
+}
+
+.menu{
+    display: none;
+}
+
+/* MAIN */
+
+.content-wrapper,
+.testimonialsDiv,
+.footer-wrapper
+{
+    max-width: 1440px;
+    margin: 100px auto; 
+    padding-left: 10%;
+
+}
+
+
+/* FirstArticle */
+
+.needAWebsite{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.needAWebsite .content{
+    width: 50%;
+}
+
+.needAWebsite .content p{
+    margin-bottom: 3%;
+}
+
+.needAWebsite .image{
+    width: 30%;
+}
+
+.needAWebsite .image img{
+    width: 55%;
+}
+
+.needAWebsite .content button{
+    background: #FAFAFA;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+
+/* OurTeam */
+
+.ourTeam,
+.testimonials-wrapper{
+    position: relative;
+
+}
+
+.ourTeam h2,
+.testimonials-wrapper h2{
+    position: relative;
+    left: 38%;
+    text-align: center;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    flex-direction: column;
+    width: fit-content;
+}
+
+.ourTeam h2::after,
+.testimonials-wrapper h2::after{
+    content: '';
+    align-self: center;
+    border: 2px solid black;
+    margin-top: 18%;
+    width: 66%;
+}
+
+.ourTeam-team-content{
+    text-align: center;
+    position: relative;
+    left: -34%;
+}
+
+.team{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+
+.team li{
+    width: 26%;
+}
+
+.team li img{
+    width: 33%;
+    text-align: center;
+}
+
+
+/* Sign-up to our Newsletter */
+
+.signUpDiv{
+    background: url('./signUpBg.PNG');
+}
+
+.signNewsletter{
+    max-width: 1440px;
+    margin: 100px auto; 
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+    position: relative;
+}
+
+.signUp-content{
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.signUp-content h2{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.signUp-content h2::after{
+    content: '';
+    border-bottom: 3px solid black;
+    width: 30%;
+    margin-top: 18px;
+    align-self: center;
+}
+
+.signUp{
+    align-self: center;
+}
+
+
+.signUp input{
+    background: white;
+    border-radius: 4px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
+/* FOOTER */
+
+footer{
+    background: #fff;
+    height: 100%;
+}
+
+.footer-wrapper{
+    display: flex;
+    margin-bottom: 0;
+    align-content: center;
+    vertical-align: middle;
+    width: 78%;
+    justify-content: space-between;
+}
+
+.footer-logo{
+    width: 25%;
+    margin-bottom: 40px;
+}
+
+.footer-sitemap{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 30%;
+}
+
+.footer-sitemap ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+.footer-sitemap .list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.contacts{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+/* MEDIA */
+
+@media all and (max-width:1100px){
+    html{  
+        width: 100vw;    
+    
+    }
+
+  
+    header{
+        margin: 10px;
+    }
+
+    header .header-nav{
+        display: none;
+    }
+
+    .menu{
+        display: flex;
+        font-weight: bold;
+    }
+
+    .menu span{
+        margin-left: 8px;
+    }
+
+    /* Main */
+
+    div.content-wrapper{
+        padding: 0px;
+    }
+
+    .ourTeam,
+    .testimonialsDiv,
+    .team{
+        align-content: center;
+        flex-wrap: wrap;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    .team li{
+        align-self:center;
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .needAWebsite .image img {
+        width: 70%;
+    }
+    
+    .team li img{
+        align-self:center;
+        width: 40%;
+    }
+
+    .ourTeam-team-content {
+        left: 0;
+    }
+
+    .footer-wrapper{
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+    }
+    .footer-wrapper article{
+        flex-basis: 100%;
+        width: 100%;
+    }
+
+    .footer-sitemap .list {
+        justify-content: space-between;
+        padding-right: 70%;
+    }
+}
+

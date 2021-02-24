@@ -1,0 +1,87 @@
+html,
+body,
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    max-width: 1440px;
+    margin: 100px auto;
+    background: rgb(241, 241, 241);
+}
+
+table{
+    width: 100%;
+    border-width: 1px;
+    border-color: rgb(241, 241, 241);
+    border-style: solid;
+}
+
+table thead{
+    background: #333333;
+    color: #fff;
+}
+
+table thead th{
+    text-align: start;
+}
+
+td{
+    border-width: 1px;
+    border-color: rgb(241, 241, 241);
+    border-style: solid;
+}
+
+th{
+    border-width: 1px;
+    border-color: rgb(241, 241, 241);
+    border-style: solid;
+}
+
+table tr:nth-child(odd) td{
+    background: rgb(241, 241, 241);
+    color: black;
+}
+
+
+@media all and (max-width: 400px){
+    table{
+        display: flex;
+        flex-direction: row;
+        border: 2px solid lightgray;
+    }
+
+    body{
+        margin: 20px auto;
+    }
+
+    table thead{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+        grid-gap: 9px;  
+        color: black;
+        background: rgb(241, 241, 241);
+
+    }
+
+    tbody{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+        grid-gap: 9px;  
+    }
+
+    table thead tr{
+        flex-basis: 100%;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        border: 1px solid rgb(241, 241, 241);
+    }
+
+    table tbody tr{
+        display: flex;
+        flex-direction: column;
+    }
+}

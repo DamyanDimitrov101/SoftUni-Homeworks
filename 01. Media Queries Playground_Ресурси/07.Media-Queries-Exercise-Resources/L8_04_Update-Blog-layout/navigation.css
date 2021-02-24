@@ -1,0 +1,42 @@
+
+header{
+    border-bottom: solid black 2px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.site-title{
+    display: inline-block;
+    font-size: 43px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.header-nav{
+    display: flex;
+    float: right;
+    margin-top: 25px;
+}
+
+.header-nav ul{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    justify-content: space-between;
+}
+
+.header-nav ul li{ 
+    display: flex;
+    margin: 3px;
+}
+
+.header-nav a{
+    text-decoration: none;
+    color: white;
+    background: #2D2D2D;
+    padding: 12px;
+    border-radius: 8px;
+    font-weight: bold;
+}

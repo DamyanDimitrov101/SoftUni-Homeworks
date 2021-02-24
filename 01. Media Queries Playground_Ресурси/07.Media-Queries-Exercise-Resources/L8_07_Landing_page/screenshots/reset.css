@@ -1,0 +1,16 @@
+html{
+    overflow-y: scroll;
+    max-width: 100rem;
+    box-sizing: border-box;
+    background-image: url('./bgFirst_section.PNG');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+*:focus {
+    outline: 0;
+}
