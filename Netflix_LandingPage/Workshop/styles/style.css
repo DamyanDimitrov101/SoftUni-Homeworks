@@ -1,0 +1,20 @@
+@import url('https://use.fontawesome.com/releases/v5.15.2/css/all.css');
+@import url('http://fonts.cdnfonts.com/css/circular-std-book');
+@import url('./header.css');
+@import url('./membershipForm.css');
+@import url('./benefits.css');
+@import url('./faq.css');
+@import url('./footer.css');
+
+html,
+body,
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #000;
+    font-family: 'Circular Std Book', Helvetica,sans-serif;
+}

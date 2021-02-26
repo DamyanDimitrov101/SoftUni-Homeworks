@@ -1,0 +1,91 @@
+.membershipForm-title{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.membership-form{
+    max-height: 5%;
+    display: flex;
+    margin-bottom: 20px;
+    width: 110%;
+    position: relative;
+    left: -27px;
+}
+
+.faq-form{
+    width: 100%;
+    left: 0;
+    padding-left: 14px;
+}
+
+.faq-form button{
+    font-size: 28px;
+}
+
+.membershipForm-input{
+    width: 65%;
+    padding: 20px 5px;
+}
+
+.membershipForm-btn{
+    width: 34%;
+    height: 100%;
+    font-size: 20px;
+    background: #E50A17;
+    color: white;
+    padding: 18px 25px;
+    border: none;
+    position: relative;
+}
+
+.membershipForm-subTitle{
+    font-size: 18px;
+}
+
+.membershipForm-btn::after{
+    content: '\f054';
+   font-family: "Font Awesome 5 Free";
+   color: white;
+   font-weight: 900;
+   position: relative;
+   left: 7px;
+   top: 1.5px;
+}
+
+@media all and (max-width:1000px){
+    .membershipForm-title{
+        font-size: 14px;
+    }
+
+    .membershipForm{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .membership-form{
+        max-height: 5%;
+        max-width: 90%;
+        position: initial;
+        left: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .membershipForm-input{
+        width: 100%;
+        padding: 20px 5px;
+    }
+
+    .membershipForm-btn{
+        width: 60%;
+        font-size: 18px;
+        margin-top: 15px;
+    }
+
+    .faq-wrapper .membershipForm p{
+        font-size: 22px;
+    }
+}
