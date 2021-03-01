@@ -1,0 +1,43 @@
+footer{
+    background: #565656;
+    border-top: 9px solid #919191;
+}
+
+.footer-main{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0;
+}
+
+.footer-main-article{
+    color: white;
+}
+
+.footer-main-article h4{
+    margin: 15px 0;
+}
+
+.footer-main-article ul{
+    list-style: none;
+}
+
+.footer-main-article ul li{
+    margin: 5px 0;
+}
+
+.footer-main-article ul li a{
+    color: white;
+    text-decoration: none;
+    margin: 15px 0;
+}
+
+.footer-main-article a{
+    color: white;
+    text-decoration: none;
+
+}
+
+.footer-main-article a i{
+    font-size: 22px;
+    margin-right: 10px;
+}

@@ -1,0 +1,98 @@
+header{
+    background: linear-gradient(180deg, rgba(255,255,255,1) 4%, rgba(255,255,255,0.6124824929971988) 41%, rgba(255,255,255,0.8) 100%), url('../images/hero-certificates.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.header-nav{
+    max-width: 1440px;
+    height: 80px;
+    background: #fff;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 25px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 0px 0px 15px 2px grey;
+}
+
+.header-nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    font-size: 19px;
+    position: relative;
+    top: 15px;
+}
+
+.header-nav ul li a{
+    text-decoration: none;
+    color: grey;
+}
+
+.header-nav ul li{
+    margin-right: 15px;
+    font-weight: 500;
+}
+
+.header-nav img{
+    width: 120px;
+}
+
+.header-content{
+    margin: 0 auto;
+    max-width: 1440px;
+    color: white;
+    display: flex;
+    padding: 0 50px;
+    margin-top: 60px;
+    justify-content: space-between;
+}
+
+.header-content-main{
+    position: relative;
+    background: #29394B;
+    width: 60%;
+    margin-right: 60px;
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.header-content-main h2{
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+.header-content-main p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.header-subtitle{
+    color: grey;
+    margin: 0 auto;
+    max-width: 1440px;
+    padding-left: 50px;
+    font-size: 18px;
+    padding-bottom: 30px;
+}
+
+.blue-certificate{
+    position: relative;
+    right: -35px;
+    height: 283px;
+    top: 60px;
+}
+
+.aa-Element{
+    position: relative;
+    background: #42ABF8;
+    color: white;
+    padding: 15px;
+    border-radius: 100%;
+    top: -15px;
+}

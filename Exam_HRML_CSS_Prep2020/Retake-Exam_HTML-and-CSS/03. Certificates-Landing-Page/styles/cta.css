@@ -1,0 +1,54 @@
+.cta{
+    margin-top: 80px;
+    background: linear-gradient(180deg, rgba(38,40,66,0.5984768907563025) 4%, rgba(32,30,56,0.5592612044817927) 83%),url('../images/sign-up-prompt-background.jpg');
+    border-radius: 8px;
+    padding: 50px 275px;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
+
+.cta h3{
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+
+.cta p{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+
+.cta-options-apply{
+    padding: 10px 24px;
+    font-size: 15px;
+    color: #42ABF8;
+    border-radius: 8px;
+    border: none;
+    margin-right: 20px;
+}
+
+.cta-options-curriculum{
+    background: transparent;
+    color: white;
+    padding: 10px 24px;
+    border-radius: 8px;
+    margin-left: 20px;
+    border: 1px solid gray;
+    position: relative;
+}
+
+.cta-options-curriculum:hover{
+    cursor: pointer;
+}
+
+.cta-options-apply:hover{
+    cursor: pointer;
+}
+
+.cta-options-curriculum::before{
+    content: ' ';
+    position: relative;
+    left: -46px;
+    border-left: 1px solid white;
+}

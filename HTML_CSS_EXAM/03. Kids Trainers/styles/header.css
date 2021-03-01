@@ -1,0 +1,36 @@
+header{
+    background: #41BEAD;
+}
+
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Helvetica';
+    font-weight: 600;
+    padding: 10px 0;
+}
+
+.header-logo{
+    width: 100px;
+}
+
+.header-logo img{
+    width: 100%;
+}
+
+.header-nav ul{
+    display: flex;
+    list-style: none;
+    margin-right: 100px;
+}
+
+.header-nav ul li{
+    margin-right: 20px;
+}
+
+.header-nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-family: 'Helvetica';
+}

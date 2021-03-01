@@ -1,0 +1,104 @@
+@import 'https://use.fontawesome.com/releases/v5.15.2/css/all.css';
+
+html,
+body,
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #66B9F8;
+    font-family: 'Helvetica';
+}
+
+.content-wrapper{
+    max-width: 1440px;
+    margin: 200px auto;
+}
+
+.content-wrapper h1{
+    color: white;
+    font-size: 30px;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+.content{
+    margin: 40px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-kids{
+    background: #fff;
+    width: 23%;
+
+    border-radius: 9px;
+}
+
+.content-kids-img img{
+    width: 100%;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+}
+
+.content-kids h3{
+    color: #FE9E1F;
+}
+
+.content-main{
+    padding: 20px;
+}
+
+.content-kids-subtitle{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.content-kids-date,
+.content-kids-time{
+    display: flex;
+    align-items: center;
+    color: gray;
+}
+
+.content-kids-time img{
+    margin-right: 2px;
+    height: 20px;
+}
+
+.content-kids-date img{
+    margin-right: 4px;
+    height: 20px;
+}
+
+.content-kids-text{
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.content-kids-btn{
+    border: none;
+    background: none;
+    color:  #FE9E1F; 
+    font-size: 18px;
+}
+
+.content-kids-btn i{
+    position: relative;
+    top: 1px;
+}
+
+.more-btn{
+    border: 1px solid white;
+    background: none;
+    color:  #fff;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 10px 20px;
+    position: relative;
+    left: 1270px;
+}

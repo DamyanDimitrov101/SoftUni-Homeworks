@@ -1,1 +1,27 @@
-/* TODO: Add media queries */
+@media all and (max-width: 600px){
+    body{
+        font-size: 18px;
+    }
+
+    .thumbnails{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .thumbnails div{
+        margin-bottom: 30px;
+        width: 100%;
+        display: flex;
+    }
+
+    .thumbnails div a{
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .thumbnails div a img{
+        flex-grow: 1;
+        max-height: 284px;
+    }
+}

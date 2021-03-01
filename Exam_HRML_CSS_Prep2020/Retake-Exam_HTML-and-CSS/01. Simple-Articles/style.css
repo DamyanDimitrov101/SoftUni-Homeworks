@@ -1,0 +1,101 @@
+@import 'https://use.fontawesome.com/releases/v5.15.2/css/all.css';
+
+html,
+body,
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Lato";
+    color: rgb(77, 77, 77);
+}
+
+h2{
+    font-family: "Montserrat";
+    padding-left: 10px;
+}
+
+.content-wrapper{
+    max-width: 1100px;
+    margin: 200px auto;
+    display: flex;
+}
+
+.content-text-article{
+    background: #E3F3FD;
+    margin-right: 20px;
+    padding: 45px 35px;
+    border-radius: 9px;
+    box-shadow: 0px 0px 3px 1px grey;
+    max-width: 50%;
+}
+
+.content-text-article ul{
+    list-style: none;
+}
+
+.content-text-article ul li{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+ul li:before {
+    content: '✓';
+    color: #4DADF9;
+    font-weight: bold;
+    font-size: 13px;
+    margin-right: 8px;
+}
+
+
+.picture-article{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #44A9F8;
+    border-radius: 9px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 55px;
+    width: 50%;
+
+}
+
+.price{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.price span{
+    color: #44A9F8; 
+    font-size: 45px;
+}
+
+.price p{
+    font-size: 20px;
+}
+
+.price i{
+    color: #44A9F8; 
+    margin-right: 3px;
+    font-size: 40px;
+    align-self: center;
+}
+
+.picture-article-text{
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.picture-article-button{
+    color: white;
+    font-size: 18px;
+    background: #44A9F8;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 35px;
+}
