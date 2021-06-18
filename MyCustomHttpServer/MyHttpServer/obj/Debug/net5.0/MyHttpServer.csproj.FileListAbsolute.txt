@@ -1,0 +1,5 @@
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\MyCustomHttpServer\MyHttpServer\obj\Debug\net5.0\MyHttpServer.csprojAssemblyReference.cache
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\MyCustomHttpServer\MyHttpServer\obj\Debug\net5.0\MyHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\MyCustomHttpServer\MyHttpServer\obj\Debug\net5.0\MyHttpServer.AssemblyInfoInputs.cache
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\MyCustomHttpServer\MyHttpServer\obj\Debug\net5.0\MyHttpServer.AssemblyInfo.cs
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\MyCustomHttpServer\MyHttpServer\obj\Debug\net5.0\MyHttpServer.csproj.CoreCompileInputs.cache

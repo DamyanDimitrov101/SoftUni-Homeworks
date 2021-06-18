@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-StartUp",
+      "appliesTo": "02.AsyncWantToBe/MyCustomHttpServer/StartUp.cs",
+      "type": "launch"
+    }
+  ]
+}

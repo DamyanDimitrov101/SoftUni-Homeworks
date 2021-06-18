@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WCqMOCA5gdUmyji7amsOwr6ZsLwtI4qpRpT2npI9+q3WQrzY+FW26oILrRlsgvYI52WKMQUIqq+WhBv8AVuNww==",
+  "success": true,
+  "projectFilePath": "D:\\_Repos\\_GITHUB_DESKTOP_REPOS\\SoftUni-Homeworks\\CSharpMasterclass_December2019_Exam\\02.AsyncWantToBe\\MyCustomHttpServer\\MyCustomHttpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

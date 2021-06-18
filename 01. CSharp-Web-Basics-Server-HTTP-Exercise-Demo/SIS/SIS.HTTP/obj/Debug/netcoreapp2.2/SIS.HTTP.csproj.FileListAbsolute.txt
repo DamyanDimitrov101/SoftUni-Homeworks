@@ -1,0 +1,9 @@
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\SIS.HTTP\bin\Debug\netcoreapp2.2\SIS.HTTP.deps.json
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\SIS.HTTP\bin\Debug\netcoreapp2.2\SIS.HTTP.dll
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\SIS.HTTP\bin\Debug\netcoreapp2.2\SIS.HTTP.pdb
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.csprojAssemblyReference.cache
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.AssemblyInfoInputs.cache
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.AssemblyInfo.cs
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.csproj.CoreCompileInputs.cache
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.dll
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\SIS.HTTP\obj\Debug\netcoreapp2.2\SIS.HTTP.pdb

@@ -1,0 +1,13 @@
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.exe
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.deps.json
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.runtimeconfig.json
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.runtimeconfig.dev.json
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.dll
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\bin\Debug\netcoreapp3.1\Chronometer.pdb
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.csprojAssemblyReference.cache
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.AssemblyInfoInputs.cache
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.AssemblyInfo.cs
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.csproj.CoreCompileInputs.cache
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.dll
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.pdb
+D:\_Repos\_GITHUB_DESKTOP_REPOS\SoftUni-Homeworks\01. CSharp-Web-Basics-Server-HTTP-Exercise-Demo\SIS\Chronometer\obj\Debug\netcoreapp3.1\Chronometer.genruntimeconfig.cache
