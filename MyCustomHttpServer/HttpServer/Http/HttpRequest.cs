@@ -52,13 +52,16 @@ namespace HttpServer.Http
 
                 var headerParts = line.Split(":", 2);
 
-                var header = new HttpHeader
+                if (headerParts.Length != 2)
                 {
-                    Name = headerParts[0],
-                    Value = headerParts[1].Trim()
-                };
+                    throw new InvalidOperationException("Request is not valid!");
+                }
 
-                headerCollection.Add(header);
+
+                var headerName = headerParts[0];
+                var headerValue = headerParts[1].Trim();
+
+                headerCollection.Add(headerName, headerValue);
             }
 
             return headerCollection;

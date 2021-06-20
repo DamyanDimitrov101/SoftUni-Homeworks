@@ -5,7 +5,7 @@ using SIS.WebServer.Result;
 
 namespace Demo.App.Controllers
 {
-    public class HomeController 
+    public class HomeController : BaseController
     {
         public IHttpResponse Index(IHttpRequest httpRequest)
         {

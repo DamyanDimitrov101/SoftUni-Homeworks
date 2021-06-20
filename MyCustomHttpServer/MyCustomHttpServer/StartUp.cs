@@ -1,21 +1,18 @@
 ﻿using HttpServer;
-using System;
-using System.Net;
-using System.Net.Sockets;
+using MyCustomHttpServer.Controllers;
+using MyCustomHttpServer.HttpServer.Responses;
 using System.Threading.Tasks;
 
 namespace MyCustomHttpServer
 {
     public static class StartUp
     {
-        public static async Task Main()
-        {
-            var address = "127.0.0.1";
-            var port = 9090;
-
-            var server = new Server(address, port);
-
-            await server.Start();
-        }
+        public static async Task Main() 
+            =>await new Server(routes=> routes
+                    .MapGet("/", new HtmlResponse("Hello from my server."))
+                    .MapGet("/Cats", new HtmlResponse("<h1>Hello from the Cats List.</h1>"))
+                    .MapGet("/Dogs", new HtmlResponse("<h1>Hello from the Dogs List.</h1>"))
+            ).Start();
+        
     }
 }
